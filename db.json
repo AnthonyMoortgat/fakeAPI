@@ -1,7 +1,7 @@
 {
   "users": [
     { "id": 1, "username": "anthony", "passw": "test123" },
-    { "id": 1, "username": "laetita", "passw": "test123" }
+    { "id": 2, "username": "laetita", "passw": "test123" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
