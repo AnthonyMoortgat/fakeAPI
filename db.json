@@ -3,9 +3,21 @@
     { "id": 1, "username": "anthony", "passw": "test123", "token": "fake_token_one" },
     { "id": 2, "username": "laetita", "passw": "test123", "token": "fake_token_two" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "players": [
+    {
+      "firstName": "Eliot",
+      "lastName": "Deragon",
+      "birthDate": "05/07/1997",
+      "sport": "hockey",
+      "numChasuble": 8
+    },
+    {
+      "firstName": "Caroline",
+      "lastName": "Turcotte",
+      "birthDate": "01/01/1990",
+      "sport": "hockey",
+      "numChasuble": 23
+    }
   ],
   "profile": {
     "name": "AnthonyMoortgat"
