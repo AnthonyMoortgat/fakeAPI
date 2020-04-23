@@ -3,6 +3,7 @@
     { "id": 1, "username": "anthony", "passw": "test123", "token": "fake_token_one" },
     { "id": 2, "username": "laetita", "passw": "test123", "token": "fake_token_two" }
   ],
+  
   "players": [
     {
       "firstName": "Eliot",
@@ -19,6 +20,14 @@
       "numChasuble": 23
     }
   ],
+  "player": {
+      "firstName": "Eliot",
+      "lastName": "Deragon",
+      "birthDate": "05/07/1997",
+      "sport": "hockey",
+      "numChasuble": 8
+  },
+  
   "profile": {
     "name": "AnthonyMoortgat"
   }
